@@ -21,4 +21,5 @@ I have developed expertise in user research, rigorous exploratory data analysis 
 
 ## Future plans
 . Looking forward to contributing to data and AI teams where I can leverage analytics and machine learning to support data-driven strategy, intelligent automation, and impactful business decisions.
+
 . Looking forward to supporting organizations in making smarter decisions by combining data analysis, structured reporting, and emerging AI techniques to extract meaningful insights from complex data.
