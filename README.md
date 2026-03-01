@@ -8,7 +8,7 @@ I have developed expertise in user research, rigorous exploratory data analysis 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko=fi&logoColor=white)](www.linkedin.com/in/rita-asemota-b7a666330)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rita-asemota-b7a666330)
 
-## Skills
+## Skills and Tools:
 1. Python
 2. Machine Learning
 3. Data Analysis
